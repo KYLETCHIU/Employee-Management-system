@@ -7,7 +7,7 @@ var connection = mysql.createConnection({
     port: 3306,
     user: `root`,
     password: `Dakota2020`,
-    //socketPath: 'mysql-socket-path',kchiu:/Applications/MAMP/tmp/mysql/mysql.sock/,
+    socketPath: 'mysql-socket-path'/Applications/MAMP/tmp/mysql/mysql.sock/,
     database: `employee_tracker_db`
 });
 
