@@ -19,7 +19,7 @@ async function start() {
         case `Add a department`:
             addDepartment();
             break;
-        case `Add a role`:
+        case `Add a role`:HTMLTemplateElement
             addNewRole();
             break;
         case `View departments`:
