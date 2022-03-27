@@ -1,14 +1,13 @@
-const mysql = require("mysql2");
+const mysql = require("mysql");
 
 //Connect to Database
 var connection = mysql.createConnection({
 
-    host: `localhost:3306`,
-    port: 3306,
-    user: `root`,
-    password: `Dakota2020`,
-    //socketPath: 'mysql-socket-path'/Applications/MAMP/tmp/mysql/mysql.sock,
-    database: `employee_tracker_db`,
+    host: `ble5mmo2o5v9oouq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com`,
+    user: `yzfaskp0hzyk4j76`,
+    password: `snjgx1limgrpik3v`,
+    port: `3306`,
+    database: `fgcb3fjdlgn6zikd`,
 });
 
 connection.connect(function (err) {
