@@ -1,8 +1,11 @@
-# WeatherDashboard
+<img width="1028" alt="Screen Shot 2022-03-28 at 12 11 35 AM" src="https://user-images.githubusercontent.com/92279620/160328082-0ed261bf-ccc5-415c-8aec-b97909ad16a0.png">
+
+
+# Employee-Management-System
 ![GitHub license](http://img.shields.io/badge/license-MIT-green)
 
 ## Description
-A simple app used to check local weather
+A simple app used to organize an employee database using mysql
 
 ## Table of Contents
 * [Installation](#Installation)
